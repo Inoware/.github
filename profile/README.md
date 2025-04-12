@@ -1,7 +1,5 @@
 # Inoware
 
-## Innovation made Software
-
 
 <!--
 
