@@ -1,4 +1,7 @@
-## Hi there 👋
+# Inoware
+
+## Software solutions at the speed of innovation
+
 
 <!--
 
