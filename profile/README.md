@@ -1,6 +1,6 @@
 # Inoware
 
-## Software solutions at the speed of innovation
+## Innovation made Software
 
 
 <!--
